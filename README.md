@@ -1,7 +1,10 @@
 # LIS 351 HTML/CSS Project
 Megha Pethari
+
 LIS 351
+
 University of Wisconsin-Madison
+
 2022
 ## Explore My Spotify
 The project is an overview of my Spotify.
